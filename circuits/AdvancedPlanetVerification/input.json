@@ -1,0 +1,13 @@
+{
+    "publicGameSeed": "1234",
+    "universeSize": "10000",
+    "blockNumber": "100",
+    "difficulty": "1000",
+    "validityThreshold": "21888242871839275222246405745257275088548364400416034343698204186575808495617",
+    "claimedX": "5000",
+    "claimedY": "6000",
+    "claimedZ": "7000",
+    "playerSeed": "5678",
+    "discoveryNonce": "9012",
+    "explorationProof": "3456"
+}

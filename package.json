@@ -1,0 +1,16 @@
+{
+  "name": "landrocker-zkp",
+  "version": "1.0.1",
+  "main": "index.js",
+  "repository": "http://gitgame.lan/landrocker_blockchain/landrocker-zkp",
+  "author": "<rizahedayati@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "bash scripts/build.sh"
+  },
+  "dependencies": {
+    "circomlib": "^2.0.5",
+    "fs": "^0.0.1-security",
+    "snarkjs": "^0.7.4"
+  }
+}
